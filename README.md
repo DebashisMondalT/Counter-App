@@ -1,6 +1,6 @@
 # Counter-App
 screenshot:-
 
-![alt text](http://url/to/image.png)
+![alt text](http://url/image.png)
 
  
